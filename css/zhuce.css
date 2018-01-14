@@ -1,0 +1,115 @@
+.box{
+	width: 100%;
+	height: 13.32rem;
+	background-color: #f8f8f8;
+	position: relative;
+}
+header{
+	width: 100%;
+	height: .88rem;
+	background-color: #e8393e;
+	padding: 0 .24rem;
+}
+header h1{
+	font-size: .20rem;
+	font-weight: lighter;
+	float: left;
+	line-height: .88rem;
+	color: #fff;
+}
+header h2{
+	font-size: .38rem;
+	float: right;
+	line-height: .88rem;
+	display: block;
+	margin-right: 2.99rem;
+	color: #fff;
+	font-weight: lighter;
+}
+.biaodan{
+	margin-top: .28rem;
+}
+input{
+	font-size: .22rem;
+	width: 100%;
+	height: .75rem;
+	background-color: #fff;
+	border-style: none;
+	margin-bottom: .15rem;
+	background-color: #fff;
+	padding: 0 .24rem;
+}
+.placeholder{
+	color: #d7d6d5;
+}	
+.name{
+	width: 83%;
+	display: block;
+	float: left;
+}
+.yanzhengma{
+	width: 17%;
+	height: .75rem;
+	display: block;
+	font-size: .22rem;
+	float: right;
+	background-color: #fff;
+	line-height: .75rem;
+	color: #e7e6e8;
+}
+.submit{
+	font-size: .3rem;
+	color: #fff;
+	width: 5.71rem;
+	height: .66rem;
+	border-radius: 50px;
+	background-color: #e8393e;
+	display: block;
+	margin: 0 auto;
+	margin-top: .35rem;
+}
+.tishi{
+	padding: 0 .24rem;
+	font-size: .2rem;
+	color: #d7d6d5;
+	text-align: center;
+	margin-top: .2rem;
+}
+.dian3{
+	width: .08rem;
+	height: .08rem;
+	background-color: #d63763;
+	border-radius: 100%;
+	position: absolute;
+	top:5.2rem;
+	left: 4.6rem;
+
+}
+.tishi1{
+	position: absolute;
+	bottom: .5rem;
+}
+.dian{
+	width: 1.8rem;
+	height: .08rem;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 4.5rem;
+	margin: auto;
+}
+.dian1{
+	width: .08rem;
+	height: .08rem;
+	background-color: #fff;
+	border-radius: 100%;
+	float: left;
+}
+.dian2{
+	width: .08rem;
+	height: .08rem;
+	background-color: #fff;
+	border-radius: 100%;
+	float: right;
+}
+
